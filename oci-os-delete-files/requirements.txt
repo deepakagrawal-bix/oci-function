@@ -1,0 +1,5 @@
+requests
+fsspec
+ocifs
+oci
+fdk>=0.1.48
