@@ -1,0 +1,8 @@
+
+schema_version: 01042023
+name: gettsdatafunc
+version: 0.0.1
+runtime: python
+entrypoint: /python/bin/fdk /function/func.py handler
+memory: 2048
+timeout: 300
