@@ -4,7 +4,7 @@ The customer expects to run OCI Forecasting service for their ticket volume fore
 
 
 ### End-to-End Flow
-![](/Users/ddagrawa/Downloads/pipeline.drawio(2).png)
+![pipeline.drawio(2).png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fpipeline.drawio%282%29.png)
 
 ### Code Flow
-![](/Users/ddagrawa/Downloads/flow_oci_function.drawio(1).png)
+![flow_oci_function.drawio(1).png](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fflow_oci_function.drawio%281%29.png)
